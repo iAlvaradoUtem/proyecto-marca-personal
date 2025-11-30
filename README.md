@@ -63,13 +63,21 @@ Para controlar las animaciones de aparición al hacer scroll.
 He organizado mis archivos de la siguiente manera para mantener el orden:
 
 📄 index.html: La estructura principal de mi sitio.
+
 🎨 styles.css: Mis estilos y reglas de diseño.
+
 ⚡ script.js: La lógica interactiva que he programado.
+
 📝 README.md: Esta documentación.
+
 📂 img/: Carpeta con mis recursos gráficos (imágenes locales).
+
 🖼️ perfil.jpg
+
 🖼️ bazar.jpg
+
 🖼️ app-comida.jpg
+
 🖼️ collar-iot.jpg
 
 ===💻 Cómo visualizar mi trabajo localmente===
