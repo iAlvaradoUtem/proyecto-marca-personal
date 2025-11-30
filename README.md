@@ -28,7 +28,7 @@ Identidad Visual Propia: He elegido una paleta de colores (Azul, Teal y Gris) y 
 
 Secciones Dinámicas:
 
-===Hero: Mi presentación personal inmediata.===
+Hero: Mi presentación personal inmediata.
 
 Formación: Mi línea de tiempo académica en la UTEM.
 
